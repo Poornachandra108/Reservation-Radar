@@ -1,4 +1,4 @@
-# Reservation Radar: Hotel Booking Cancellation Prediction 🏨
+# Reservation Radar: Hotel Booking Cancellation Prediction
 
 > A Machine Learning Approach to Predicting and Reducing Hotel Booking Cancellations  
 
@@ -79,16 +79,15 @@ Multiple models were built and evaluated to classify bookings as Canceled or Not
 | Random Forest | 89% | 0.92 |
 | XGBoost | 84% | 0.90 |
 
-> The Random Forest Classifier outperformed other models in accuracy and robustness, making it the preferred choice for deployment.
+> ### The Random Forest Classifier outperformed other models in accuracy and robustness, making it the preferred choice for deployment.
 
 ## Tools & Technologies Used  
 
 - Python 3.x  
 - Pandas & NumPy for data manipulation  
 - Matplotlib & Seaborn for visualization 📊  
-- Scikit-learn for machine learning models  
+- Scikit-learn for machine learning models (Logistic Regression, Random Forest) 
 - XGBoost for advanced boosting algorithms  
-- FPDF for automated report generation  
 
 ## Business Impact & Recommendations  
 
@@ -99,10 +98,22 @@ This project equips hotels with a data-driven approach to:
 - Strengthen customer loyalty programs  
 - Improve marketing campaigns based on seasonal trends  
 - Minimize revenue loss due to last-minute cancellations  
+
+## Repository Structure  
+
+```
+├── data/              # Raw dataset files  
+├── notebooks/         # Jupyter notebooks (EDA, modeling)  
+├── visuals/           # Generated charts and figures  
+├── reports/           # Project report and PDF documentation  
+├── src/               # Python scripts for model building  
+├── README.md          # Project overview & documentation  
+└── requirements.txt   # Python dependencies  
 ```
 
 ## Final Note  
 
 This project demonstrates the power of Data Science in the hospitality industry. By leveraging Machine Learning models, hotels can move from reactive to proactive cancellation management — improving both profitability and guest satisfaction.
 
-## ❤️ Let’s Connect!  
+## Let's Connect!
+
