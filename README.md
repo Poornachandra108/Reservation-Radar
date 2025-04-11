@@ -1,4 +1,4 @@
-# Reservation Radar: Hotel Booking Cancellation Prediction
+# Reservation Radar: Hotel Booking Cancellation Prediction Using ML
 
 > A Machine Learning Approach to Predicting and Reducing Hotel Booking Cancellations  
 
