@@ -99,18 +99,6 @@ This project equips hotels with a data-driven approach to:
 - Improve marketing campaigns based on seasonal trends  
 - Minimize revenue loss due to last-minute cancellations  
 
-## Repository Structure  
-
-```
-├── data/              # Raw dataset files  
-├── notebooks/         # Jupyter notebooks (EDA, modeling)  
-├── visuals/           # Generated charts and figures  
-├── reports/           # Project report and PDF documentation  
-├── src/               # Python scripts for model building  
-├── README.md          # Project overview & documentation  
-└── requirements.txt   # Python dependencies  
-```
-
 ## Final Note  
 
 This project demonstrates the power of Data Science in the hospitality industry. By leveraging Machine Learning models, hotels can move from reactive to proactive cancellation management — improving both profitability and guest satisfaction.
