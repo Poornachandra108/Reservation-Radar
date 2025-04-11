@@ -79,7 +79,7 @@ Multiple models were built and evaluated to classify bookings as Canceled or Not
 | Random Forest | 89% | 0.92 |
 | XGBoost | 84% | 0.90 |
 
-> ### The Random Forest Classifier outperformed other models in accuracy and robustness, making it the preferred choice for deployment.
+#### The Random Forest Classifier outperformed other models in accuracy and robustness, making it the preferred choice for deployment.
 
 ## Tools & Technologies Used  
 
